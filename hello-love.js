@@ -1,4 +1,6 @@
 // hello-love.ts
+// Searching for 'I' would return all words that contain 'I' in the lyrics
+
 var helloLoveLyrics = [
     'I don\'t know where you were, I don\'t know what became of us',
     'And I don\'t know what went wrong, time had turned its back on us',
